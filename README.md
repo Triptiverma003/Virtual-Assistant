@@ -1,48 +1,55 @@
 # 🤖 Virtual Assistant (AI + MERN)
 
-A fully customizable **AI-powered Virtual Assistant** built with the **MERN stack**. Talk to your assistant using voice commands, personalize their name and avatar, and receive smart responses powered by AI.
+![Made with MERN](https://img.shields.io/badge/Built%20With-MERN-blue.svg)
+![Speech Recognition](https://img.shields.io/badge/Speech-Recognition-blueviolet)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-![Virtual Assistant UI](./public/VirtualAssistantPic.PNG)
-
----
-
-## 🚀 Features
-
-- 🎤 **Voice Recognition** — Interact using your voice with seamless speech-to-text.
-- 🧠 **AI-Powered Responses** — Integrated with Gemini API for intelligent responses.
-- 🖼️ **Custom Assistant** — Choose from stunning futuristic assistant avatars or upload your own.
-- 🗣️ **Speech Synthesis** — Your assistant talks back using text-to-speech (TTS).
-- 🧭 **Smart Actions** — Executes smart commands like:
-  - Google search
-  - YouTube search
-  - Weather info
-  - Calculator access
-  - Social media redirects
-- 📜 **Interaction History** — Stores your recent commands for reference.
+An intelligent, AI-powered Virtual Assistant built with **MERN Stack + Gemini API**. Speak to your assistant, receive smart responses, and personalize your assistant’s avatar and name.
 
 ---
 
-## 🛠 Tech Stack
+## ✨ Features
 
-| Frontend | Backend | AI & APIs | Database |
-|----------|---------|-----------|----------|
-| React.js + TailwindCSS | Node.js + Express.js | Google Gemini API + Web Speech API | MongoDB |
+- 🎤 **Speech Recognition** — Talk to your assistant using voice commands.
+- 🧠 **AI Integration** — Uses **Google Gemini API** for smart responses.
+- 🗣️ **Speech Synthesis** — Your assistant speaks back to you in **Hindi**.
+- 🖼️ **Custom Assistant Avatar** — Pick from prebuilt AI avatars or upload your own.
+- 📜 **Command History** — View your recent voice commands.
+- ⚙️ **Command Execution** — Smart commands like:
+  - Google Search
+  - YouTube Search
+  - Weather Check
+  - Open Calculator
+  - Open Social Media platforms
+
+---
+
+## 🖥️ Tech Stack
+
+| Frontend         | Backend            | AI & Voice         | Database |
+|------------------|--------------------|--------------------|----------|
+| React.js + Tailwind CSS | Node.js + Express.js | Google Gemini API + Web Speech API | MongoDB |
 
 ---
 
 ## 📸 Screenshots
 
-### 🧠 Main Assistant UI
-![Main Assistant UI](./public/VirtualAssistantPic.PNG)
+### 💬 Main Virtual Assistant UI
 
-### 🎨 Avatar Customization Screen
-![Assistant Customization](./public/VirtualAssistantPic1.PNG)
+![Main Assistant UI](https://github.com/Triptiverma003/Virtual-Assistant/blob/main/Frontend/public/VirtualAssistantPic.PNG?raw=true)
+
+### 🎨 Assistant Customization
+
+![Customize Assistant](https://github.com/Triptiverma003/Virtual-Assistant/blob/main/Frontend/public/VirtualAssistantPic1.PNG?raw=true)
 
 ---
 
-## 🔧 Setup Instructions
+## 🔧 Getting Started
 
-### 1. Clone the Repo
+Follow these steps to run the app locally:
+
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Triptiverma003/Virtual-Assistant.git
